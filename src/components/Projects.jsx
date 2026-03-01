@@ -18,7 +18,7 @@ const projects = [
     image: "/projects/HingeImage.jpeg",
     tags: ["React-Native", "Express", "Mongo-Db" , "Socket.io"],
     demoUrl: "https://drive.google.com/file/d/1kK1r8LyhjKwzEedLH0RpExm9Cj--98VD/view?usp=drivesdk",
-    githubUrl: "#",
+    githubUrl: "https://github.com/yugssssss/Hinge-Clone",
   },
   {
     id: 3,
